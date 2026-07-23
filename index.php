@@ -176,9 +176,8 @@ $vcQuoteParagraph = $vcParagraphs[1] ?? '';
         <div class="stripe-vc-frame reveal">
             <img src="<?= e($vcImgSrc) ?>" alt="<?= e($vcName) ?>">
             <div class="stripe-vc-signature">
-                <div class="vc-signature-sig" style="color: var(--green-deep); font-size: 26px; font-weight: 800; font-family: var(--font-serif);"><?= e(str_replace('Professor', 'Prof.', explode(',', $vcName)[0])) ?></div>
-                <div style="margin-top: 4px; font-size: 12px; color: var(--muted);">
-                    <strong><?= e($vcName) ?></strong><br>
+                <div style="font-size: 13px; color: var(--muted);">
+                    <strong style="color: var(--green-deep); font-size: 15px; display: block; margin-bottom: 2px;"><?= e($vcName) ?></strong>
                     <span>Vice Chancellor, JOSTUM</span>
                 </div>
             </div>
