@@ -1,0 +1,2155 @@
+{
+  "settings": {
+    "name": "Joseph Sarwuan Tarka University, Makurdi",
+    "short_name": "JOSTUM",
+    "location": "Makurdi, Nigeria",
+    "motto": "Innovation and Service",
+    "tagline": "Education for individual and social responsibility",
+    "logo": "images/docx/image1.jpeg",
+    "phone": "+234 704 366 7952",
+    "email": "info@uam.edu.ng",
+    "wallpaper1": "images/uploads/img_6a4644d31b7c76.76371976.png",
+    "wallpaper2": "images/uploads/img_6a4644d31c8547.67085853.png",
+    "wallpaper3": "images/uploads/img_6a4644d31d0260.23143461.png"
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "index.php",
+      "slug": "home"
+    },
+    {
+      "label": "About",
+      "href": "page.php?slug=history",
+      "slug": "history"
+    },
+    {
+      "label": "Academics",
+      "href": "page.php?slug=colleges",
+      "slug": "colleges"
+    },
+    {
+      "label": "Statistics",
+      "href": "page.php?slug=at-a-glance",
+      "slug": "at-a-glance"
+    },
+    {
+      "label": "Charts",
+      "href": "charts.php",
+      "slug": "charts"
+    },
+    {
+      "label": "Gallery",
+      "href": "gallery.php",
+      "slug": "gallery"
+    },
+    {
+      "label": "Alumni",
+      "href": "page.php?slug=alumni",
+      "slug": "alumni"
+    },
+    {
+      "label": "Directorates",
+      "href": "page.php?slug=directorates",
+      "slug": "directorates"
+    },
+    {
+      "label": "Infrastructure",
+      "href": "page.php?slug=infrastructure",
+      "slug": "infrastructure"
+    },
+    {
+      "label": "Portal",
+      "href": "page.php?slug=student-portal",
+      "slug": "student-portal"
+    },
+    {
+      "label": "Contact",
+      "href": "page.php?slug=contact",
+      "slug": "contact"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Students",
+      "value": "22,846"
+    },
+    {
+      "label": "Academic Staff",
+      "value": "1,052"
+    },
+    {
+      "label": "Staff",
+      "value": "3,164"
+    },
+    {
+      "label": "Professors",
+      "value": "185"
+    },
+    {
+      "label": "Colleges",
+      "value": "11"
+    },
+    {
+      "label": "Departments",
+      "value": "76"
+    }
+  ],
+  "pages": [
+    {
+      "slug": "home",
+      "group": "home",
+      "title": "Home",
+      "heading": "Joseph Sarwuan Tarka University, Makurdi",
+      "summary": "A dynamic university portal for academics, administration, research, admissions, students, charts, and institutional records.",
+      "eyebrow": "Innovation and Service",
+      "hero_image": "images/uploads/img_6a4645a86e54d8.29576880.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": []
+        }
+      ]
+    },
+    {
+      "slug": "history",
+      "group": "about",
+      "title": "History",
+      "eyebrow": "Institutional History",
+      "heading": "From Federal University of Technology to Joseph Sarwuan Tarka University.",
+      "summary": "The university's official history, milestones, archival images, and past leadership records.",
+      "hero_image": "images/docx/image2.jpeg",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Established as the Federal University of Technology, Makurdi, Nigeria in March 1980.",
+            "Converted to a campus of the University of Jos in January 1984.",
+            "Became a full-fledged university as the Federal University of Agriculture, Makurdi in January 1988.",
+            "Renamed Joseph Sarwuan Tarka University, Makurdi on 21 April 2019."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image5.png",
+          "caption": "The first matriculated students of the university in the 1981/82 academic session in February 1982."
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image8.jpeg",
+          "caption": "Picture of some of the first graduates of the University (University of Jos, Makurdi Campus) in June 1986."
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image6.png",
+          "caption": "Archival portrait strip of past Pro-Chancellors & Chairmen of the University Governing Council."
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image7.png",
+          "caption": "Archival portrait strip of past Provosts & Vice Chancellors of the University."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "S/No.",
+            "Name",
+            "Tenure"
+          ],
+          "rows": [
+            [
+              "1",
+              "Chief Abiola Oshodi",
+              "1980 - 1982"
+            ],
+            [
+              "2",
+              "Alhaji Lateef Femi Okunnu, SAN",
+              "1982 - 1984"
+            ],
+            [
+              "3",
+              "Dr. Dalhatu Sarki Tafida",
+              "May 1989 - May 1991"
+            ],
+            [
+              "4",
+              "Alhaji (Dr) Y. O. Bashorun",
+              "November 1991 - December 1995"
+            ],
+            [
+              "5",
+              "Engr. Dr. Philip Atanmo",
+              "July 2000 - May 2004"
+            ],
+            [
+              "6",
+              "Alhaji Salisu Mandalla Ahmed",
+              "June 2003 - September 2007"
+            ],
+            [
+              "7",
+              "Dr. Dan Shere",
+              "March 2009 - August 2009"
+            ],
+            [
+              "8",
+              "Comrade Abba Moro",
+              "November 2009 - August 2011"
+            ],
+            [
+              "9",
+              "Bar. Emmanuel J. J. Toro, SAN",
+              "May 2012 - March 2013"
+            ],
+            [
+              "10",
+              "Chief Chike C. Udenze",
+              "April 2013 - April 2017"
+            ],
+            [
+              "11",
+              "Prof. Alkasum Abba",
+              "May 2017 - May 2021"
+            ],
+            [
+              "12",
+              "Hon Edith C. Uwajumogu",
+              "September 2022 - June 2023"
+            ],
+            [
+              "13",
+              "Sen. Dr. Olarewaju Tejuoso",
+              "July 2024 - February 2025"
+            ],
+            [
+              "14",
+              "Sen. Joy Emodi, CON",
+              "February 2025 - Date"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "S/No.",
+            "Name",
+            "Designation",
+            "Tenure"
+          ],
+          "rows": [
+            [
+              "1",
+              "Professor Gaius Igboeli",
+              "Vice Chancellor, Federal University of Technology, Makurdi",
+              "March 1980 - September 1984"
+            ],
+            [
+              "2",
+              "Professor Ochapa Onazi",
+              "Provost, University of Jos (Makurdi Campus)",
+              "October 1984 - October 1986"
+            ],
+            [
+              "3",
+              "Professor Shekarau Y. Aka",
+              "Provost, University of Jos (Makurdi Campus)",
+              "October 1986 - October 1988"
+            ],
+            [
+              "4",
+              "Professor Francis Suleimanu Idachaba",
+              "Vice Chancellor, University of Agriculture, Makurdi",
+              "November 1988 - December 1995"
+            ],
+            [
+              "5",
+              "Professor Ikenna Onyido",
+              "Ag. Vice Chancellor, University of Agriculture, Makurdi",
+              "December 1995 - September 1996"
+            ],
+            [
+              "6",
+              "Professor Erastus O. Gyang",
+              "Vice Chancellor, University of Agriculture, Makurdi",
+              "September 1996 - September 2001"
+            ],
+            [
+              "7",
+              "Professor James O. I. Ayatse",
+              "Vice Chancellor, University of Agriculture, Makurdi",
+              "September 2001 - September 2006"
+            ],
+            [
+              "8",
+              "Professor Emmanuel O. Ogunwolu",
+              "Ag. Vice Chancellor, University of Agriculture, Makurdi",
+              "September 2006 - November 2007"
+            ],
+            [
+              "9",
+              "Professor Daniel V. Uza",
+              "Vice Chancellor, University of Agriculture, Makurdi",
+              "November 2007 - November 2012"
+            ],
+            [
+              "10",
+              "Professor Emmanuel I. Kucha",
+              "Vice Chancellor, University of Agriculture, Makurdi",
+              "November 2012 - November 2017"
+            ],
+            [
+              "11",
+              "Professor Richard A. Kimbir",
+              "Vice Chancellor, Joseph Sarwuan Tarka University, Makurdi",
+              "November 2017 - November 2022"
+            ],
+            [
+              "12",
+              "Professor Paul Annune",
+              "Ag. Vice Chancellor, Joseph Sarwuan Tarka University, Makurdi",
+              "November 2022 - February 2023"
+            ],
+            [
+              "13",
+              "Professor Isaac Nathaniel Itodo",
+              "Vice Chancellor, Joseph Sarwuan Tarka University, Makurdi",
+              "February 2023 - Date"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vision-mission",
+      "group": "about",
+      "title": "Vision and Mission",
+      "heading": "Innovation and Service guide the university mandate.",
+      "summary": "The vision, mission, and motto stated in the university document.",
+      "eyebrow": "University Direction",
+      "hero_image": "images/uploads/img_6a4645b9ac7454.23328541.png",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "label": "University Vision",
+              "value": "Vision Statement",
+              "text": "To become a major institutional player in national and global human resource capacity building in agriculture, science, engineering, and technology (ASET) for rapid economic growth."
+            },
+            {
+              "label": "University Mission",
+              "value": "Mission Statement",
+              "text": "To develop the human mind to be creative, innovative, research oriented, competent in areas of specialization, knowledge in entrepreneurship and dedicated to service hence the JoSTUM logo 'Innovation and Service'."
+            },
+            {
+              "label": "University Motto",
+              "value": "Innovation and Service",
+              "text": "The watchword guiding all university mandates, scientific research, learning activities, and professional collaborations."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image12.png",
+          "caption": "The main administrative block entrance view."
+        }
+      ]
+    },
+    {
+      "slug": "anthem",
+      "group": "about",
+      "title": "University Anthem",
+      "eyebrow": "Approved 9 December 2015",
+      "heading": "Hail! Varsity of Agriculture Makurdi.",
+      "summary": "The anthem text as included in the university document.",
+      "hero_image": "images/docx/image10.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Hail! Varsity of Agriculture Makurdi situated in the Benue trough: With a mandate to promote agriculture, Accelerating the drive towards food security, 'Innovation and Service' is our watch word, To become a major player in the nation's economy.",
+            "UAM. In God we trust. To uphold her vision, Mission and Mandate. Wake up to this clarion call, All Great Makurdians!",
+            "We build social and physical infrastructure Providing scientific environment For research and manpower development Championing creativity and self-reliance. Great Makurdians, arise to this great mission."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "at-a-glance",
+      "group": "statistics",
+      "title": "At a Glance",
+      "eyebrow": "Institutional Statistics",
+      "heading": "Staff, students, professors, colleges, departments, and accreditation numbers.",
+      "summary": "A dashboard-style page using the numbers from the Word document.",
+      "hero_image": "images/docx/image27.png",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "label": "Staff",
+              "value": "3,164",
+              "text": "2,111 male and 1,053 female."
+            },
+            {
+              "label": "Students",
+              "value": "22,846",
+              "text": "15,046 male and 7,798 female."
+            },
+            {
+              "label": "Professors",
+              "value": "185",
+              "text": "Across colleges and the library."
+            },
+            {
+              "label": "Colleges / Departments",
+              "value": "11 / 76",
+              "text": "Academic structure in the document."
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Staff by Gender",
+            "type": "doughnut",
+            "labels": [
+              "Male",
+              "Female"
+            ],
+            "values": [
+              2111,
+              1053
+            ]
+          }
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Students by Gender",
+            "type": "doughnut",
+            "labels": [
+              "Male",
+              "Female"
+            ],
+            "values": [
+              15046,
+              7798
+            ]
+          }
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Programme Accreditation Status",
+            "type": "doughnut",
+            "labels": [
+              "Full",
+              "Interim",
+              "Failed",
+              "Awaiting"
+            ],
+            "values": [
+              47,
+              5,
+              0,
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slug": "staff-statistics",
+      "group": "statistics",
+      "title": "Staff Statistics",
+      "eyebrow": "Staff in Numbers",
+      "heading": "Staff distribution by role and gender.",
+      "summary": "Staff figures from the university document.",
+      "hero_image": "images/docx/image12.png",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "label": "Total staff",
+              "value": "3,164",
+              "text": "Male: 2,111 (66.7%); Female: 1,053 (33.4%)."
+            },
+            {
+              "label": "Academic staff",
+              "value": "1,052",
+              "text": "Male: 765 (72.7%); Female: 287 (27.3%)."
+            },
+            {
+              "label": "Non-academic staff",
+              "value": "2,112",
+              "text": "Male: 1,346 (63.7%); Female: 766 (36.3%)."
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Staff by Gender",
+            "type": "doughnut",
+            "labels": [
+              "Male",
+              "Female"
+            ],
+            "values": [
+              2111,
+              1053
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slug": "student-statistics",
+      "group": "statistics",
+      "title": "Student Statistics",
+      "eyebrow": "Students in Numbers",
+      "heading": "Student population by gender, level, programme, and college.",
+      "summary": "Undergraduate and postgraduate population data with charts.",
+      "hero_image": "images/docx/image17.png",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "label": "Total students",
+              "value": "22,846",
+              "text": "Male: 15,046; Female: 7,798."
+            },
+            {
+              "label": "Undergraduate students",
+              "value": "20,509",
+              "text": "Male: 13,356; Female: 7,151."
+            },
+            {
+              "label": "Postgraduate students",
+              "value": "2,337",
+              "text": "Male: 1,690; Female: 647."
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Students by Gender",
+            "type": "doughnut",
+            "labels": [
+              "Male",
+              "Female"
+            ],
+            "values": [
+              15046,
+              7798
+            ]
+          }
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Undergraduate Students by Level",
+            "type": "bar",
+            "labels": [
+              "100",
+              "200",
+              "300",
+              "400",
+              "500",
+              "600"
+            ],
+            "datasets": [
+              {
+                "label": "Total",
+                "values": [
+                  6676,
+                  5527,
+                  2702,
+                  3974,
+                  1610,
+                  17
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Postgraduate Students by Programme",
+            "type": "bar",
+            "labels": [
+              "PGD",
+              "Master",
+              "PhD"
+            ],
+            "datasets": [
+              {
+                "label": "Students",
+                "values": [
+                  332,
+                  1606,
+                  399
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Undergraduate Students by College",
+            "type": "bar",
+            "labels": [
+              "Agric Econ",
+              "Agronomy",
+              "Animal Sci",
+              "Biological",
+              "Education",
+              "Engineering",
+              "Food Tech",
+              "Forestry",
+              "Management",
+              "Physical",
+              "Vet Med"
+            ],
+            "datasets": [
+              {
+                "label": "Students",
+                "values": [
+                  761,
+                  905,
+                  1749,
+                  2030,
+                  3604,
+                  2869,
+                  1890,
+                  1188,
+                  2899,
+                  2391,
+                  223
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Postgraduate Students by College",
+            "type": "bar",
+            "labels": [
+              "Agric Econ",
+              "Agronomy",
+              "Animal Sci",
+              "Biological",
+              "Education",
+              "Engineering",
+              "Food Tech",
+              "Forestry",
+              "Management",
+              "Physical",
+              "Vet Med"
+            ],
+            "datasets": [
+              {
+                "label": "Students",
+                "values": [
+                  346,
+                  55,
+                  41,
+                  85,
+                  224,
+                  143,
+                  79,
+                  58,
+                  732,
+                  559,
+                  15
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slug": "professors",
+      "group": "statistics",
+      "title": "Professors in Numbers",
+      "eyebrow": "Academic Leadership",
+      "heading": "185 professors across colleges and the library.",
+      "summary": "Professor distribution from the DOCX figures.",
+      "hero_image": "images/docx/image14.png",
+      "blocks": [
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Professors by College",
+            "type": "bar",
+            "labels": [
+              "Agric Econ",
+              "Agronomy",
+              "Animal Sci",
+              "Biological",
+              "Education",
+              "Engineering",
+              "Food Tech",
+              "Forestry",
+              "Management",
+              "Physical",
+              "Vet Med",
+              "Library"
+            ],
+            "datasets": [
+              {
+                "label": "Professors",
+                "values": [
+                  18,
+                  19,
+                  8,
+                  11,
+                  30,
+                  21,
+                  7,
+                  14,
+                  10,
+                  24,
+                  19,
+                  4
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Academic staff to undergraduate students ratio: 1:20.",
+            "Academic staff to total students ratio: 1:22.",
+            "Number of professors to total students ratio: 1:124."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "colleges",
+      "group": "academics",
+      "title": "Colleges and Departments",
+      "eyebrow": "Academic Structure",
+      "heading": "11 colleges and 76 departments.",
+      "summary": "The official college structure and deans from the university document.",
+      "hero_image": "images/docx/image24.png",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Agricultural Economics & Extension",
+            "Agronomy",
+            "Animal Sciences",
+            "Biological Sciences",
+            "Education",
+            "Engineering",
+            "Food Technology & Human Ecology",
+            "Forestry & Fisheries",
+            "Management Sciences",
+            "Physical Sciences",
+            "Veterinary Medicine"
+          ]
+        },
+        {
+          "type": "list",
+          "items": [
+            "Agricultural Economics & Extension: Prof. Edward A. Unongu",
+            "Agronomy: Prof. Philip Agber",
+            "Animal Sciences: Prof. Terzungwe Ahemen",
+            "Biological Sciences: Prof. Celestine Aguoru",
+            "Education: Prof. Ado Wombo",
+            "Engineering: Prof. Martins Udochukwu",
+            "Food Technology & Human Ecology: Prof. Julius Ikya",
+            "Forestry & Fisheries: Prof. Rosemary A. Obande",
+            "Management Sciences: Prof. Patrick Zayol",
+            "Physical Sciences: Prof. Samual T. Swem",
+            "Veterinary Medicine: Prof. Joel A. Bosha"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image15.png",
+          "caption": "Sonny Echono Auditorium at the College of Food Technology & Human Ecology"
+        }
+      ]
+    },
+    {
+      "slug": "accreditation",
+      "group": "academics",
+      "title": "Accreditation Status",
+      "heading": "Programme accreditation status by college and department.",
+      "summary": "Full, interim, professional, and resource verification statuses from the document.",
+      "eyebrow": "Quality Assurance",
+      "hero_image": "images/uploads/img_6a4645d46ded20.90529971.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "The National Universities Commission (NUC) and professional regulatory bodies (like COREN and Veterinary Council of Nigeria) periodically review and accredit the academic programmes of the university."
+          ]
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "title": "Accreditation Distribution",
+            "type": "doughnut",
+            "labels": [
+              "Full Accreditation",
+              "Interim Accreditation",
+              "Resource Verified & Awaiting"
+            ],
+            "values": [
+              47,
+              5,
+              24
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "headers": [
+            "S/No.",
+            "College",
+            "Department / Programme",
+            "NUC Status",
+            "Professional Status"
+          ],
+          "rows": [
+            [
+              "1",
+              "College of Agricultural Economics & Extension",
+              "Agricultural Economics",
+              "Full",
+              ""
+            ],
+            [
+              "2",
+              "College of Agricultural Economics & Extension",
+              "Agricultural Extension & Communication",
+              "Full",
+              ""
+            ],
+            [
+              "3",
+              "College of Agricultural Economics & Extension",
+              "Sustainable Social Development",
+              "Full",
+              ""
+            ],
+            [
+              "4",
+              "College of Agronomy",
+              "Soil & Land Resources Management",
+              "Full",
+              ""
+            ],
+            [
+              "5",
+              "College of Agronomy",
+              "Crop & Environmental Protection",
+              "Full",
+              ""
+            ],
+            [
+              "6",
+              "College of Agronomy",
+              "Plant Breeding & Seed Science",
+              "Full",
+              ""
+            ],
+            [
+              "7",
+              "College of Agronomy",
+              "Crop production",
+              "Full",
+              ""
+            ],
+            [
+              "8",
+              "College of Animal Sciences",
+              "Animal Nutrition",
+              "Full",
+              ""
+            ],
+            [
+              "9",
+              "College of Animal Sciences",
+              "Animal Production",
+              "Full",
+              ""
+            ],
+            [
+              "10",
+              "College of Animal Sciences",
+              "Animal Breeding & Physiology",
+              "Full",
+              ""
+            ],
+            [
+              "11",
+              "College of Animal Sciences",
+              "Animal Health & Production",
+              "Full",
+              ""
+            ],
+            [
+              "12",
+              "College of Biological Sciences",
+              "Microbiology",
+              "Full",
+              ""
+            ],
+            [
+              "13",
+              "College of Biological Sciences",
+              "Biochemistry",
+              "Full",
+              ""
+            ],
+            [
+              "14",
+              "College of Biological Sciences",
+              "Zoology",
+              "Full",
+              ""
+            ],
+            [
+              "15",
+              "College of Biological Sciences",
+              "Plant Science & Biotechnology",
+              "Full",
+              ""
+            ],
+            [
+              "16",
+              "College of Education",
+              "Guidance & Counseling",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "17",
+              "College of Education",
+              "Educational Administration & Planning",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "18",
+              "College of Education",
+              "Physics Education",
+              "Interim",
+              ""
+            ],
+            [
+              "19",
+              "College of Education",
+              "Mathematics Education",
+              "Interim",
+              ""
+            ],
+            [
+              "20",
+              "College of Education",
+              "Biology Education",
+              "Full",
+              ""
+            ],
+            [
+              "21",
+              "College of Education",
+              "Statistics Education",
+              "Interim",
+              ""
+            ],
+            [
+              "22",
+              "College of Education",
+              "Computer Science Education",
+              "Full",
+              ""
+            ],
+            [
+              "23",
+              "College of Education",
+              "Agricultural Education",
+              "Full",
+              ""
+            ],
+            [
+              "24",
+              "College of Education",
+              "Environmental Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "25",
+              "College of Education",
+              "Home Economics Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "26",
+              "College of Education",
+              "English Language Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "27",
+              "College of Education",
+              "History & Archeology Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "28",
+              "College of Education",
+              "Industrial Technical Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "29",
+              "College of Education",
+              "Business Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "30",
+              "College of Education",
+              "Adult Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "31",
+              "College of Education",
+              "Integrated Science Education",
+              "Interim",
+              ""
+            ],
+            [
+              "32",
+              "College of Education",
+              "Chemistry Education",
+              "Interim",
+              ""
+            ],
+            [
+              "33",
+              "College of Education",
+              "Entrepreneurship Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "34",
+              "College of Education",
+              "Social Studies/Civil Education",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "35",
+              "College of Engineering",
+              "Agricultural & Biosystems Engineering",
+              "Full",
+              "Full"
+            ],
+            [
+              "36",
+              "College of Engineering",
+              "Computer Engineering",
+              "Resource verified & awaiting accreditation",
+              "Not yet visited"
+            ],
+            [
+              "37",
+              "College of Engineering",
+              "Civil Engineering",
+              "Full",
+              "Interim"
+            ],
+            [
+              "38",
+              "College of Engineering",
+              "Environmental   Engineering",
+              "Resource verified & awaiting accreditation",
+              "Not yet visited"
+            ],
+            [
+              "39",
+              "College of Engineering",
+              "Electrical/Electronic Engineering",
+              "Full",
+              "Full"
+            ],
+            [
+              "40",
+              "College of Engineering",
+              "Mechanical Engineering",
+              "Full",
+              "Full"
+            ],
+            [
+              "41",
+              "College of Engineering",
+              "Telecommunication Engineering",
+              "Resource verified & awaiting accreditation",
+              "Not yet visited"
+            ],
+            [
+              "42",
+              "College of Food Technology & Human Ecology",
+              "Food Science & Technology",
+              "Full",
+              ""
+            ],
+            [
+              "43",
+              "College of Food Technology & Human Ecology",
+              "Nutrition & Dietetics",
+              "Full",
+              ""
+            ],
+            [
+              "44",
+              "College of Food Technology & Human Ecology",
+              "Family & Consumer Science",
+              "Full",
+              ""
+            ],
+            [
+              "45",
+              "College of Forestry & Fisheries",
+              "Fisheries & Aquaculture",
+              "Full",
+              ""
+            ],
+            [
+              "46",
+              "College of Forestry & Fisheries",
+              "Social & Environmental Forestry",
+              "Full",
+              ""
+            ],
+            [
+              "47",
+              "College of Forestry & Fisheries",
+              "Wildlife & Range Management",
+              "Full",
+              ""
+            ],
+            [
+              "48",
+              "College of Forestry & Fisheries",
+              "Forest Production & Products",
+              "Full",
+              ""
+            ],
+            [
+              "49",
+              "College of Management Sciences",
+              "Procurement Management",
+              "Full",
+              ""
+            ],
+            [
+              "50",
+              "College of Management Sciences",
+              "Accounting",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "51",
+              "College of Management Sciences",
+              "Banking & Finance",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "52",
+              "College of Management Sciences",
+              "Agribusiness",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "53",
+              "College of Management Sciences",
+              "Business Administration",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "54",
+              "College of Management Sciences",
+              "Entrepreneurship",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "55",
+              "College of Management Sciences",
+              "Public Administration",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "56",
+              "College of Management Sciences",
+              "Agricultural Marketing & Co-operatives",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "57",
+              "College of Management Sciences",
+              "Marketing",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "58",
+              "College of Management Sciences",
+              "Library & Information Science",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "59",
+              "College of Physical Sciences",
+              "Environmental Sustainability",
+              "Full",
+              ""
+            ],
+            [
+              "60",
+              "College of Physical Sciences",
+              "Chemistry",
+              "Full",
+              ""
+            ],
+            [
+              "61",
+              "College of Physical Sciences",
+              "Industrial Chemistry",
+              "Resource verified & awaiting accreditation",
+              ""
+            ],
+            [
+              "62",
+              "College of Physical Sciences",
+              "Physics",
+              "Full",
+              ""
+            ],
+            [
+              "63",
+              "College of Physical Sciences",
+              "Industrial Physics",
+              "Full",
+              ""
+            ],
+            [
+              "64",
+              "College of Physical Sciences",
+              "Computer Science",
+              "Full",
+              ""
+            ],
+            [
+              "65",
+              "College of Physical Sciences",
+              "Mathematics",
+              "Full",
+              ""
+            ],
+            [
+              "66",
+              "College of Physical Sciences",
+              "Statistics",
+              "Full",
+              ""
+            ],
+            [
+              "67",
+              "College of Veterinary Medicine",
+              "Veterinary Anatomy",
+              "Full",
+              "Full"
+            ],
+            [
+              "68",
+              "College of Veterinary Medicine",
+              "Veterinary Parasitology & Entomology",
+              "Full",
+              "Full"
+            ],
+            [
+              "69",
+              "College of Veterinary Medicine",
+              "Veterinary Pharmacology & Toxicology",
+              "Full",
+              "Full"
+            ],
+            [
+              "70",
+              "College of Veterinary Medicine",
+              "Veterinary Physiology & Biochemistry",
+              "Full",
+              "Full"
+            ],
+            [
+              "71",
+              "College of Veterinary Medicine",
+              "Veterinary Microbiology",
+              "Full",
+              "Full"
+            ],
+            [
+              "72",
+              "College of Veterinary Medicine",
+              "Veterinary Pathology",
+              "Full",
+              "Full"
+            ],
+            [
+              "73",
+              "College of Veterinary Medicine",
+              "Veterinary Public Health & Preventive Medicine",
+              "Full",
+              "Full"
+            ],
+            [
+              "74",
+              "College of Veterinary Medicine",
+              "Veterinary Surgery & Diagnostic Imaging",
+              "Full",
+              "Full"
+            ],
+            [
+              "75",
+              "College of Veterinary Medicine",
+              "Veterinary Medicine",
+              "Full",
+              "Full"
+            ],
+            [
+              "76",
+              "College of Veterinary Medicine",
+              "Theriogenology",
+              "Full",
+              "Full"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "governing-council",
+      "group": "governance",
+      "title": "Governing Council",
+      "eyebrow": "Governance",
+      "heading": "Profile and membership of the Governing Council.",
+      "summary": "Pro-Chancellor profile and council membership from the university document.",
+      "hero_image": "images/docx/image11.png",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/docx/image11.png",
+          "caption": "Senator Joy Emodi, CON, Pro-Chancellor and Chairperson"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Senator Joy Emodi, CON, was born on 23 May 1955 in Onitsha, Anambra State. She attended Holy Rosary Primary School, Queen of the Rosary College, University of Nigeria, Nsukka, and the Nigerian Law School.",
+            "She has served in education, public administration, constitutional conference work, party leadership, and the Senate of the Federal Republic of Nigeria, including committee leadership in education."
+          ]
+        },
+        {
+          "type": "list",
+          "items": [
+            "Sen Joy Emodi - Pro-Chancellor & Chairman",
+            "Engr. Prof. I. N. Itodo - Vice Chancellor",
+            "Prof. Folayan Adio - Member",
+            "QS Aminu Lawal Othman - Member",
+            "Dr. Muhammad Kwankwaso - Member",
+            "Mr. Preye Agama - Member",
+            "Prof. E. Kembe - Deputy Vice Chancellor Administration, Member",
+            "Prof. R. Wuana - Deputy Vice Chancellor Academic, Member",
+            "Prof. J. Enokela - Member",
+            "Prof. J. Ikya - Member",
+            "Prof. M. Adamu - Member",
+            "Prof. M. Manyi - Member",
+            "Prof. G. Gberikon - Member",
+            "Mr. V. Bem - Member",
+            "Mrs. S. Ugochukwu, Representative, Federal Ministry of Education - Member",
+            "Prof. Bello Zaki Abubakar, Representative, Federal Ministry of Agriculture & Food Security - Member",
+            "Dr. J. U. David - Registrar & Secretary",
+            "Mr. S. Ortese - Bursar, In attendance",
+            "Prof. J. A. Agoh - University Librarian, In attendance"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "university-management",
+      "group": "governance",
+      "title": "University Management",
+      "eyebrow": "Principal Officers",
+      "heading": "University management and principal officers.",
+      "summary": "Management composition as listed in the DOCX.",
+      "hero_image": "images/docx/image12.png",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Vice Chancellor: Engr. Prof. Isaac Nathaniel Itodo, B. Eng (Jos), M. Sc (Ibadan), Ph. D (Ibadan), FNSE, FAEng, NPOM",
+            "Deputy Vice Chancellor (Administration): Prof. Elizabeth Kembe, B. Ed (ABU), M. Ed (UNN), Ph.D (Jos), FACLP, FHCON",
+            "Deputy Vice Chancellor (Academic): Prof. Raymond Wuana",
+            "Registrar: Dr. John Ujo David, BA (Jos), MPIA (Lagos), Ph.D (BSU), FCAI",
+            "Bursar: Mr. Simon Ortese",
+            "Librarian: Prof. Jessica Ahemen Agoh, DLS, BLIS (ABU), MLIS (Maiduguri), PhD (UNN), NLA"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vice-chancellor-welcome",
+      "group": "about",
+      "title": "Vice Chancellor Welcome",
+      "heading": "Professor Isaac Nathaniel Itodo",
+      "summary": "Welcome message from the Vice Chancellor.",
+      "eyebrow": "Office of the Vice Chancellor",
+      "hero_image": "images/uploads/img_6a46453a0601f6.55452162.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Dear students, staff, and visitors, it is my great pleasure to welcome you to Joseph Sarwuan Tarka University, Makurdi. As the Vice Chancellor of this esteemed institution, it is an honor to lead an exceptional community of scholars, researchers, and learners.\r\n\r\nOur university is committed to providing a dynamic academic environment that fosters critical thinking, innovation, and creativity. We offer a wide range of undergraduate and post-graduate programs that prepare our students for successful and fulfilling careers in various fields.\r\n\r\nWe take pride in the diversity of our community, and strive to promote inclusivity and equality for everyone. Our colleges and staff are dedicated to providing top-notch education, research opportunities, and support services that empower our students to achieve their fullest potential.\r\n\r\nI encourage you to explore all that Joseph Sarwuan Tarka University has to offer, and to engage in the many opportunities available to you. We look forward to a successful and rewarding academic journey together."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vice-chancellor-profile",
+      "group": "about",
+      "title": "Vice Chancellor Profile",
+      "heading": "Professor Isaac Nathaniel Itodo",
+      "summary": "Biography and leadership profile of the Vice Chancellor.",
+      "eyebrow": "Office of the Vice Chancellor",
+      "hero_image": "images/uploads/img_6a46454e73fde4.42689178.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "Professor Isaac Nathaniel Itodo was born sixty-two (62) years ago in Abeokuta, Ogun State, Nigeria. He attended various primary schools in Kano, Sokoto, Afikpo, Abakaliki, Enugu and Kaduna between 1968 and 1975. He attended the famous Mount Saint Gabriel’s Secondary School, Makurdi from 1976 to 1981. He obtained a Bachelor of Engineering degree in Agricultural Engineering in 1986, a Master of Science degree in 1989 and a Doctor of Philosophy degree in December 1993 from the University of Ibadan. He is a certified Occupational and Safety Health Administration (OSHA) Engineer of the USA (2014) and holds human resources management and development certificates from leadership training institutes in Kenya, Mauritius, Seychelles, Senegal, Ghana, Tanzania, Rwanda and the United Kingdom.\r\n\r\nProfessor Itodo was awarded the Kassel University, Germany scholarship for scientists from developing countries for the International Solar Energy Society (ISES) solar world congress in 2011. He was President of Solar Energy Society of Nigeria, one of the most sought-after of the learned societies from 2016 to 2019 and is a Life Member of the society. The Nigerian Society of Engineers, Makurdi awarded him the Excellence Award as an Academic Icon in the Engineering Profession in 2016. The University of Agriculture Makurdi Alumni Association awarded him the Distinguished Award of Excellence – Academic in 2022. Professor Itodo was awarded the national honour of National Productivity Order of Merit (NPOM) in 2019 by the Federal Government of Nigeria.\r\n\r\nProfessor Itodo started his academic career as Graduate Assistant in the Department of Agricultural Engineering, University of Jos in 1987 (39 years ago) and rose to the rank of Professor in October 2003 (23 years ago). He was Head, Department of Agricultural Engineering from 1996 to 2000; Deputy Dean, from 2001 to 2002; Dean, College of Engineering from 2005 to 2008. He was Editor of the University journal – Journal of Agriculture, Science and Technology (JAST) from 2005 to 2007. He was Hall Adviser, Hostel D (2005 – 2007). He was Programme Leader, Technology and Environment, Institute of Food Security (IFS) from 2010 to 2011 and was Director of Linkages of the university from 2013 to 2018. Professor Itodo was appointed the 7th Vice Chancellor of the Joseph Sarwuan Tarka University, Makurdi in February, 2023.\r\n\r\nProfessor Itodo was a member of the Governing Council of the University from 2003 to 2007 and has Chaired several standing committees of the university: University Corporate Image Committee (2006), Public and Inaugural Lecture Committee (2009 – 2012) and the University Sports Committee (2011 – 2018). He Coordinated the UAM/NNPC Automotive Ethanol Biomass Programme (2006 – 2017) and was Chairman, Pope John Paul II Catholic Chaplaincy (2012 – 2016). He won the Outstanding Service Award of the University of Agriculture, Makurdi in 2014.\r\n\r\nProfessor Itodo has supervised over fifty (50) undergraduate and twenty - five (25) postgraduate diploma projects; twenty - one (21) Master of Engineering degree and twelve (12) Doctor of Philosophy degree theses. He has attracted research grants to train postgraduate students; Eight (8) of his former postgraduate students are now Professors. He is currently editor/member of editorial board of nine (9) learned societies and university-based journals. He was a Slumberger Nig. Ltd Mentor to the SEED programme of the Nigeria Academy of Science.\r\n\r\nProfessor Itodo was Chairman/member of the Council for the Regulation of Engineering in Nigeria (COREN) and the National Universities Commission (NUC) accreditation committees to twenty - three (23) universities. Professor Itodo was the Technical Secretary of the Committee of Deans of Engineering and Technology of Nigerian Universities (CODET) from 2008 to 2010. He was appointed Reviewer of the new curriculum (CCMAS) of the Agricultural Engineering programme by the National Universities Commission in 2021.\r\n\r\nProfessor Itodo has served in many professional committees. He was Chief Examiner, Agricultural Engineering, Makurdi zonal office of COREN from 2002 to 2012. He was appointed an Engineering Regulation and Monitoring (ERM) Inspector by COREN in 2013. He was member of several committees of the Nigerian Society of Engineers (NSE), which include the committee on one-year compulsory internship for graduate engineers and the establishment of school of engineering practice in 2006. He has also served on the Education Committee (2008 – 2010) and the Civil, Agriculture and Inter-Disciplinary Board of the NSE (2017 – 2019). He is currently the Chairman, Agricultural Engineering Curriculum Review Committee of the Nigerian Institution of Agricultural Engineers (NIAE) since 2021. He is currently the Vice Chairman of the Agriculture committee and member of the Membership Committee of the Nigerian Academy of Engineering (NAE).\r\n\r\nProfessor Itodo has served on several international and national committees. He was Team Leader/Lead - Consultant to the United Nations Development Programme (UNDP) between 1997 and 1998. He is currently a member of the Board of Trustees of the Renewable Energy and Energy Efficiency Associations Alliance of Nigeria (REEEA-N) of the Deutsche Gesellschaft for Internationale Zusammenarbeit (GIZ) GmbH, Abuja. He was appointed a member of the Board of Trustee of the International Institute of Tropical Agriculture (IITA), Ibadan by the Federal Government in 2023. He served on the technical committees that developed the bio-fuels training manual and development of standards for bio-fuels production in Nigeria for the Energy Commission of Nigeria (ECN) in 2008. He was Chairman, Technical Sub-Committee of the Nigerian Universities Games Association (NUGA) that held at the University of Agriculture, Makurdi in 2014. He was 2nd Vice President of the Conference of Alumni Associations of Nigerian Universities (CAANU) from 2005 to 2007 and currently the Provost of the Mt. St. Gabriel Old Boys Association since 2023. He was appointed Chairman, Presidential Visitation Panel to the Federal University, Gusau by the Federal Government in 2021.\r\n\r\nProfessor Itodo has contributed to the development of other Nigerian universities. He was External Examiner to twenty-five (25) M. Eng and sixteen (16) PhD candidates across nine (9) universities and External Examiner to the undergraduate programme of three (3) universities. He has assessed fifty (50) candidates from seventeen (17) universities for promotion to the professorial rank. He was a member of the steering committee for the establishment of the Faculty of Environmental Sciences, Benue State University, Makurdi from 2002 to 2003. He was Consultant to the Benue State University for the establishment of the Faculties of Engineering and Agriculture (2019). He was a consultant and member of the Renewable Energy for Economic Development Consultative Committee, National Centre for Energy and Environment, University of Benin (2012 – 2016).\r\n\r\nProfessor Itodo holds two (2) Nigerian patents of a yam-in-mound harvesting machine and an improved acha dehulling machine. He is author of the books ‘Agricultural Energy Technology’ and ‘Biogas Technology in Nigeria’ published by the CRC Press, London. He has one hundred and twenty-three (123) publications. His publication ‘The effects of biogas fuel in an electric generator on greenhouse gas emission, power output and fuel consumption’ in the Transactions of the American Society of Agricultural and Biological Engineers (ASABE) won the 3rd best engineering academic publication in Nigeria in 2019. Professor Itodo is also a poet, having published poems in anthologies.\r\n\r\nProfessor Itodo has attended ninety-eight (98) national and international conferences/workshops and presented forty - four (44) papers as Keynote, Guest or Lead Speaker. He has presented papers at learned conferences in South Africa, USA, Germany, Republic of Benin and Canada.\r\n\r\nProfessor Itodo is a Fellow of the Nigerian Academy of Engineering (FAEng) since 2021, Fellow of the Nigerian Society of Engineers (FNSE-5658) since 2009, Fellow of Solar Energy Society of Nigeria (FSESN), and Fellow of the Nigerian Institution of Agricultural Engineers (FNIAE). He is also a member of the American Society of Agricultural and Biological Engineers (ASABE) and member of the International Solar Energy Society (ISES).\r\n\r\nHe holds the Igala national honour of ‘Commander of the Igala Kingdom’ conferred on him by the Igala Cultural and Development Association (2007). Professor Itodo is married to Grace Jojo Itodo and they are blessed with a daughter, Iye. His hobbies are playing the game of squash racquet, reading and watching football."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "endowment-board",
+      "group": "governance",
+      "title": "Board of Trustees of University Endowment Fund",
+      "eyebrow": "Endowment",
+      "heading": "Board of Trustees of the University Endowment Fund.",
+      "summary": "The endowment board listed in the university document.",
+      "hero_image": "images/docx/image21.png",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Engr. Prof. Isaac N. Itodo - Chairman",
+            "QS Aminu Lawal Othman - Member",
+            "Dr. Theophilus Ukaa - Member",
+            "Justice Ejembi Eko - Member",
+            "Sen. Jack Tilley Gyado - Member",
+            "Alhaji Sanusi Lamido Sanusi - Member",
+            "Sen. Daisy Danjuma - Member",
+            "Mr. Oluwatosin Adeola Ajayi, MON - Member",
+            "Mr. Thomas Etuh - Member",
+            "Mr. Shaakaa K. Chira - Member",
+            "Gen. Martins Luther Agwai (rtd) - Member",
+            "Prof. G. N. Imandeh - Secretary"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "short-courses",
+      "group": "academics",
+      "title": "Short Courses and Certifications",
+      "heading": "Procurement, environmental, and social standards programmes.",
+      "summary": "Short courses and certifications listed for the Institute for Procurement, Environmental and Social Standards.",
+      "eyebrow": "IPESS / CIPESS",
+      "hero_image": "images/uploads/img_6a4645e9ee1052.46109093.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "The Institute for Procurement, Environmental and Social Standards offers executive short courses, advanced certificate courses, postgraduate diploma, master's, bachelor's, and doctoral programmes."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "international-students",
+      "group": "academics",
+      "title": "International Students",
+      "eyebrow": "IPESS",
+      "heading": "International students from The Gambia.",
+      "summary": "International student list included in the university document.",
+      "hero_image": "images/docx/image17.png",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Name",
+            "Programme",
+            "Status",
+            "Matriculation No.",
+            "Citizenship"
+          ],
+          "rows": [
+            [
+              "Ansu Njie",
+              "M.Sc Procurement Management",
+              "Graduated (2023-2024)",
+              "24/1479/C/MSc",
+              "Gambia"
+            ],
+            [
+              "Lamin Sanyang",
+              "PGD Procurement Management",
+              "Graduated (2023-2024)",
+              "24/1202/C/PGD",
+              "Gambia"
+            ],
+            [
+              "Salim Jaiteh",
+              "M.Sc Procurement Management",
+              "Graduated (2023-2024)",
+              "24/1410/C/MSc",
+              "Gambia"
+            ],
+            [
+              "M.J Gomez III",
+              "M.Sc Procurement Management",
+              "Ongoing",
+              "25/1851/C/MSc",
+              "Gambia"
+            ],
+            [
+              "Ebrima A. Touray",
+              "PGD Procurement Management",
+              "Ongoing",
+              "25/2193/C/PGD",
+              "Gambia"
+            ]
+          ]
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image17.png",
+          "caption": "CIPESS regional students from The Gambia during JoSTUM matriculation"
+        }
+      ]
+    },
+    {
+      "slug": "student-portal",
+      "group": "portal",
+      "title": "Student Portal",
+      "eyebrow": "Digital Services",
+      "heading": "Student, staff, applicant, and alumni portal services.",
+      "summary": "Functional portal pathways ready to connect to real backend services.",
+      "hero_image": "images/docx/image23.png",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "label": "Students",
+              "value": "Course registration, fee payment, results, profile, learning resources, support tickets.",
+              "text": ""
+            },
+            {
+              "label": "Applicants",
+              "value": "Application, screening, admission status, acceptance fee, clearance checklist.",
+              "text": ""
+            },
+            {
+              "label": "Staff",
+              "value": "Course allocation, result upload, notices, profile, leave and service requests.",
+              "text": ""
+            },
+            {
+              "label": "Alumni",
+              "value": "Transcript request, verification, alumni registration, endowment support.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "admissions",
+      "group": "portal",
+      "title": "Admissions",
+      "eyebrow": "Prospective Students",
+      "heading": "Admissions and application guidance.",
+      "summary": "Applicant-focused page for undergraduate, postgraduate, and short-course admissions.",
+      "hero_image": "images/docx/image17.png",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "label": "Undergraduate",
+              "value": "Programme discovery, eligibility, screening, admission status, and registration.",
+              "text": ""
+            },
+            {
+              "label": "Postgraduate",
+              "value": "PGD, master's, and PhD application steps and programme guidance.",
+              "text": ""
+            },
+            {
+              "label": "Short Courses",
+              "value": "Procurement, environmental, and social standards certification tracks.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "research-innovation",
+      "group": "portal",
+      "title": "Research and Innovation",
+      "eyebrow": "ASET Mandate",
+      "heading": "Research, innovation, patents, and partnerships.",
+      "summary": "Research-facing content from the Vice Chancellor profile and university mandate.",
+      "hero_image": "images/docx/image29.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "The university mandate covers agriculture, science, engineering, and technology for national development.",
+            "Professor Itodo's profile references patents, publications, grants, engineering regulation, bio-fuels work, renewable energy activity, and international collaborations."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image30.png",
+          "caption": "Agricultural machine prototype"
+        },
+        {
+          "type": "image",
+          "src": "images/docx/image31.png",
+          "caption": "Technical drawing of agricultural equipment"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "group": "portal",
+      "title": "Contact",
+      "eyebrow": "Service Units",
+      "heading": "Reach admissions, registry, student affairs, ICT, and public relations.",
+      "summary": "Contact page ready for official phone numbers, emails, office hours, and routing.",
+      "hero_image": "images/docx/image9.png",
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "label": "Admissions",
+              "value": "Applications, screening, offers, and admission status.",
+              "text": ""
+            },
+            {
+              "label": "Registry",
+              "value": "Academic records, transcripts, verification, and documentation.",
+              "text": ""
+            },
+            {
+              "label": "ICT Helpdesk",
+              "value": "Portal login, password reset, payments, and technical support.",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "not-found",
+      "group": "system",
+      "title": "Page Not Found",
+      "heading": "The page you requested is not available.",
+      "summary": "Use the navigation to continue.",
+      "eyebrow": "404",
+      "hero_image": "images/uploads/img_6a464614137140.21500790.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "The page may have moved or may not yet be published."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "test-xss",
+      "group": "customabout",
+      "title": "Test XSS",
+      "heading": "Test XSS",
+      "summary": "Testing XSS",
+      "eyebrow": "Test",
+      "hero_image": "images/uploads/img_6a4646295847e9.69203006.png",
+      "blocks": [
+        {
+          "type": "text",
+          "paragraphs": [
+            "<script>console.log(\"XSS_WORKS\")</script>"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "alumni",
+      "group": "about",
+      "title": "Alumni Association",
+      "eyebrow": "Alumni Network",
+      "heading": "Alumni & Prominent Graduates",
+      "summary": "Meet the alumni association executives, prominent graduates in public and private leadership, and alumni professors of JoSTUM.",
+      "hero_image": "images/docx/image37.png",
+      "blocks": []
+    },
+    {
+      "slug": "directorates",
+      "group": "about",
+      "title": "Directorates & Centres",
+      "eyebrow": "Administration",
+      "heading": "Academic & Non-Academic Directorates",
+      "summary": "Administrative structure of the directorates, institutes, and centres under the university management.",
+      "hero_image": "images/docx/image12.png",
+      "blocks": []
+    },
+    {
+      "slug": "infrastructure",
+      "group": "about",
+      "title": "Infrastructure & Facilities",
+      "eyebrow": "Campus Environment",
+      "heading": "Physical & Academic Infrastructure",
+      "summary": "Overview of physical facilities, student hostels, university health services, solar hybrid energy, and libraries on the campus.",
+      "hero_image": "images/docx/image28.png",
+      "blocks": []
+    }
+  ],
+  "charts": [
+    {
+      "title": "Staff by Gender",
+      "type": "doughnut",
+      "labels": [
+        "Male",
+        "Female"
+      ],
+      "values": [
+        2111,
+        1053
+      ]
+    },
+    {
+      "title": "Students by Gender",
+      "type": "doughnut",
+      "labels": [
+        "Male",
+        "Female"
+      ],
+      "values": [
+        15046,
+        7798
+      ]
+    },
+    {
+      "title": "Undergraduate Students by Level",
+      "type": "bar",
+      "labels": [
+        "100",
+        "200",
+        "300",
+        "400",
+        "500",
+        "600"
+      ],
+      "datasets": [
+        {
+          "label": "Total",
+          "values": [
+            6676,
+            5527,
+            2702,
+            3974,
+            1610,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Postgraduate Students by Programme",
+      "type": "bar",
+      "labels": [
+        "PGD",
+        "Master",
+        "PhD"
+      ],
+      "datasets": [
+        {
+          "label": "Students",
+          "values": [
+            332,
+            1606,
+            399
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Professors by College",
+      "type": "bar",
+      "labels": [
+        "Agric Econ",
+        "Agronomy",
+        "Animal Sci",
+        "Biological",
+        "Education",
+        "Engineering",
+        "Food Tech",
+        "Forestry",
+        "Management",
+        "Physical",
+        "Vet Med",
+        "Library"
+      ],
+      "datasets": [
+        {
+          "label": "Professors",
+          "values": [
+            18,
+            19,
+            8,
+            11,
+            30,
+            21,
+            7,
+            14,
+            10,
+            24,
+            19,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Undergraduate Students by College",
+      "type": "bar",
+      "labels": [
+        "Agric Econ",
+        "Agronomy",
+        "Animal Sci",
+        "Biological",
+        "Education",
+        "Engineering",
+        "Food Tech",
+        "Forestry",
+        "Management",
+        "Physical",
+        "Vet Med"
+      ],
+      "datasets": [
+        {
+          "label": "Students",
+          "values": [
+            761,
+            905,
+            1749,
+            2030,
+            3604,
+            2869,
+            1890,
+            1188,
+            2899,
+            2391,
+            223
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Postgraduate Students by College",
+      "type": "bar",
+      "labels": [
+        "Agric Econ",
+        "Agronomy",
+        "Animal Sci",
+        "Biological",
+        "Education",
+        "Engineering",
+        "Food Tech",
+        "Forestry",
+        "Management",
+        "Physical",
+        "Vet Med"
+      ],
+      "datasets": [
+        {
+          "label": "Students",
+          "values": [
+            346,
+            55,
+            41,
+            85,
+            224,
+            143,
+            79,
+            58,
+            732,
+            559,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Programme Accreditation Status",
+      "type": "doughnut",
+      "labels": [
+        "Full",
+        "Interim",
+        "Failed",
+        "Awaiting"
+      ],
+      "values": [
+        47,
+        5,
+        0,
+        24
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "images/docx/image1.jpeg",
+      "caption": "Joseph Sarwuan Tarka University logo"
+    },
+    {
+      "src": "images/docx/image10.png",
+      "caption": "South core and convocation square"
+    },
+    {
+      "src": "images/docx/image11.png",
+      "caption": "Senator Joy Emodi, Pro-Chancellor and Chairperson"
+    },
+    {
+      "src": "images/docx/image12.png",
+      "caption": "Administrative building"
+    },
+    {
+      "src": "images/docx/image14.png",
+      "caption": "University Senate Building"
+    },
+    {
+      "src": "images/docx/image15.png",
+      "caption": "Sonny Echono Auditorium"
+    },
+    {
+      "src": "images/docx/image16.png",
+      "caption": "Institute of Procurement, Environmental and Social Standards building"
+    },
+    {
+      "src": "images/docx/image17.png",
+      "caption": "CIPESS regional students from The Gambia during matriculation"
+    },
+    {
+      "src": "images/docx/image18.png",
+      "caption": "Department of Agricultural & Bio-Systems Engineering Building"
+    },
+    {
+      "src": "images/docx/image19.png",
+      "caption": "Department of Agricultural Economics & Communication Building"
+    },
+    {
+      "src": "images/docx/image2.jpeg",
+      "caption": "Four of the first graduates at the 1986 convocation ceremony"
+    },
+    {
+      "src": "images/docx/image20.png",
+      "caption": "Agronomy Research Center"
+    },
+    {
+      "src": "images/docx/image21.png",
+      "caption": "MoU signing ceremony with the University of Kigali, Rwanda"
+    },
+    {
+      "src": "images/docx/image22.png",
+      "caption": "MoU signing ceremony with the University of Kigali, Rwanda"
+    },
+    {
+      "src": "images/docx/image23.png",
+      "caption": "Group photograph after partnership activity"
+    },
+    {
+      "src": "images/docx/image24.png",
+      "caption": "Francis Suleimanu Idachaba Library"
+    },
+    {
+      "src": "images/docx/image25.png",
+      "caption": "Students' hostels at the South Core of the university"
+    },
+    {
+      "src": "images/docx/image26.png",
+      "caption": "University Health Services Building"
+    },
+    {
+      "src": "images/docx/image27.png",
+      "caption": "Solar power installation on campus"
+    },
+    {
+      "src": "images/docx/image28.png",
+      "caption": "University Solar Hybrid Plant"
+    },
+    {
+      "src": "images/docx/image29.png",
+      "caption": "Acha dehulling machine prototype"
+    },
+    {
+      "src": "images/docx/image3.png",
+      "caption": "Past Pro-Chancellors & Chairmen of the Governing Council"
+    },
+    {
+      "src": "images/docx/image30.png",
+      "caption": "Yam-in-mound harvesting machine prototype"
+    },
+    {
+      "src": "images/docx/image31.png",
+      "caption": "Technical drawing of yam harvester"
+    },
+    {
+      "src": "images/docx/image32.png",
+      "caption": "University League Cup Trophy"
+    },
+    {
+      "src": "images/docx/image33.png",
+      "caption": "JOSTUM ENACTUS National Champions"
+    },
+    {
+      "src": "images/docx/image34.png",
+      "caption": "The International Conference Centre"
+    },
+    {
+      "src": "images/docx/image35.png",
+      "caption": "The Drawing Studio & Library at the College of Engineering"
+    },
+    {
+      "src": "images/docx/image36.png",
+      "caption": "The Journal of Agriculture, Science & Technology (JAST) Building"
+    },
+    {
+      "src": "images/docx/image37.png",
+      "caption": "Security and ceremonial portrait"
+    },
+    {
+      "src": "images/docx/image38.jpeg",
+      "caption": "Engr. Abdul Mohammed Bello"
+    },
+    {
+      "src": "images/docx/image39.jpeg",
+      "caption": "Dr. Amos J. Dangut"
+    },
+    {
+      "src": "images/docx/image4.png",
+      "caption": "Past Pro-Chancellors & Chairmen of the Governing Council"
+    },
+    {
+      "src": "images/docx/image40.jpeg",
+      "caption": "Engr. Prof. Joseph T. Utsev Hon Minister of Water Resources & Sanitation"
+    },
+    {
+      "src": "images/docx/image41.png",
+      "caption": "Engr. Mansur Alhaji Sambo"
+    },
+    {
+      "src": "images/docx/image42.jpeg",
+      "caption": "HRH Engr. Timothy Tavershima Ahile"
+    },
+    {
+      "src": "images/docx/image43.png",
+      "caption": "Engr. Prof. Nentawe Goshwe Yilwatda"
+    },
+    {
+      "src": "images/docx/image5.png",
+      "caption": "Past Pro-Chancellors & Chairmen of the Governing Council"
+    },
+    {
+      "src": "images/docx/image6.png",
+      "caption": "Past Provosts & Vice Chancellors of the University"
+    },
+    {
+      "src": "images/docx/image7.png",
+      "caption": "Past Provosts & Vice Chancellors of the University"
+    },
+    {
+      "src": "images/docx/image8.jpeg",
+      "caption": "Past Provosts & Vice Chancellors of the University"
+    },
+    {
+      "src": "images/docx/image9.png",
+      "caption": "University gate"
+    },
+    {
+      "src": "images/uploads/img_6a46450299adc8.28081242.png",
+      "caption": "Engr. Professor Isaac Nathaniel Itodo, FNSE, FAEng, NPOM"
+    }
+  ],
+  "notices": [
+    {
+      "date": "2026-06-03",
+      "title": "Advertisement for the 2026/2027 Post UTME/Direct entry application",
+      "body": "DVC Academic, Registry News\r\nIssued By: Directorate of Information, Protocol and Public Relations (DIPPR), JOSTUM\r\n\r\n1. General Eligibility & Cut-Off MarkUTME Candidates: You must have chosen JOSTUM as your first choice institution and scored the minimum institutional cut-off mark (typically 150 or higher depending on the highly competitive agricultural, engineering, or science courses) in the UTME.O'Level Requirements: Minimum of five (5) O’Level credit passes including English Language, Mathematics, and relevant science/art subjects matching your course choice in not more than two sittings.Direct Entry (DE) Candidates: Must possess a minimum of Lower Credit at National Diploma (ND), Diploma, or NCE, or minimum of two (2) Advanced Level/IJMB passes in relevant subjects, alongside matching O'Level credits.\r\n\r\n2. Standard Step-by-Step Registration Workflow1.Generate RRR on the Portal:Step \r\n1.Visit the official portal at uam.edu.ng or fees.uam.edu.ng. Locate the portal application link, enter your JAMB Registration Number, and generate your Remita Retrieval Reference (RRR) invoice for the processing fee (typically ₦2,000).\r\n2.Process Payment:Step 2.Pay the processing fee online using your debit card details via Remita, or print the generated invoice slip and walk into any commercial bank nationwide to make the payment.3.Complete Bio-Data and O'Level Upload:Step 3.Return to the JOSTUM portal and log back in with your JAMB registration details. Complete your personal bio-data, specify your course choices, and enter your exact O'Level grades (WAEC/NECO/NABTEB).\r\n4.Submit and Print Slip:Step 4.Verify that all entries match your physical certificates perfectly. Submit the application online and print out your Post-UTME Screening Acknowledgement Slip as proof of completion.",
+      "image": "images/uploads/img_6a4653d0c34027.12702590.png"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "Call for Facilitators across North Central States",
+      "body": "Issued By: Prof. L.A. Nnamonu PMP (Center Leader & Director, IPESS)\r\nSource Department: Institute of Procurement, Environmental and Social Standards (IPESS), Joseph Sarwuan Tarka University, Makurdi (JOSTUM)\r\n\r\nApplications are open for qualified individuals across the North Central states of Nigeria to serve as facilitators under Phase II of the Sustainable Procurement, Environmental and Social Standards Enhancement (SPESSE) Project.\r\n\r\nAvailable Tracks\r\nTrack A: Short Executive Course\r\n\r\nTrack B: Advanced Certificate Course\r\n\r\nKey Areas of Specialization\r\nFacilitators are needed to teach and lead training sessions in:\r\n\r\nProcurement Standards\r\n\r\nEnvironmental Standards\r\n\r\nSocial Standards\r\n\r\nDeadlines & Links\r\nSubmission Deadline: Wednesday, June 3, 2026, at 4:00 PM.\r\n\r\nApplication Form URL: [https://forms.gle/FYBcaRj55UqefqS8A](https://forms.gle/FYBcaRj55UqefqS8A)\r\n\r\nAction Required: Applicants must complete the linked Google Form carefully and upload all relevant supporting documents (CVs, credentials, etc.) where required.\r\n\r\nContact Info\r\nPhone: +234 704 366 7952\r\n\r\nEmail: info@uam.edu.ng\r\n\r\nPhysical Address: JOSTUM P.M.B. 2373 Gbajimba Road, Makurdi, Nigeria",
+      "image": "images/uploads/img_6a465499bcaf26.03681532.png"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Open And Distance Learning: IPESS JOSTUM Trains Staff",
+      "body": "Category: IPESS JOSTUM News\r\nIssued By: Directorate of Information, Protocol and Public Relations (DIPPR), JOSTUM\r\n\r\nCore Summary\r\nThe Institute of Procurement, Environmental and Social Standards (IPESS) at Joseph Sarwuan Tarka University Makurdi (JOSTUM), in collaboration with the Open and Distance Learning Centre (ODLC) at the National Open University of Nigeria (NOUN), Abuja, organized a 3-day hands-on workshop on open learning course content development for print and digital spaces.\r\n\r\nKey Event Details\r\nDuration: 3 Days (Held from March 24th to March 26th, 2026).\r\n\r\nVenue: IPESS Complex, JOSTUM.\r\n\r\nTraining Facilitator/Resource Team: Regional Training and Research Institute for Distance and Open Learning (RETRIDOL), led by Felix K. Olakulehin.\r\n\r\nObjective: To build individual capacities of university staff to develop educational content and materials fit for delivery across digital and print spaces as JOSTUM prepares to launch its Open and Distance Learning Centre.\r\n\r\nKey Speeches & Administrative Mentions\r\nProf. Lami A. Nnamonu (Centre Leader & Director, IPESS): Represented by the Monitoring and Evaluation Officer, Prof. Simon Shomkegh. She noted that Open and Distance Learning (ODL) is a milestone the Institute aspires to achieve to scale sustainable capacity in procurement, environmental, and social standards.\r\n\r\nProf. Rufus Sha'Ato (Director, Open and Distance Learning Centre, JOSTUM): Thanked IPESS management for supporting the initiative and noted that the university is fully poised to kickstart its ODL operations.\r\n\r\nEngr. Prof. Isaac N. Itodo (Vice Chancellor, JOSTUM): Represented by the Deputy Vice Chancellor Administration, Prof. Elizabeth Kembe, during a courtesy visit by the RETRIDOL team. The VC commended the project, stating that ODL is a vital, trending innovation that the university is eager to establish.",
+      "image": "images/uploads/img_6a465513c7bf43.45004710.png"
+    }
+  ]
+}

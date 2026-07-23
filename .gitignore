@@ -1,0 +1,21 @@
+# Log files
+*.log
+php-9010.err.log
+php-9010.log
+
+# Large files
+*.zip
+*.docx
+jostum_home.zip
+University Website .docx
+
+# Local IDE / agent configs
+.agents/
+.codex/
+
+# Scratch & Tooling
+scratch/
+tools/
+
+# Session data
+data/sessions/
