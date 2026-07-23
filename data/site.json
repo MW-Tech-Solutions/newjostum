@@ -64,11 +64,6 @@
       "slug": "infrastructure"
     },
     {
-      "label": "Portal",
-      "href": "page.php?slug=student-portal",
-      "slug": "student-portal"
-    },
-    {
       "label": "Contact",
       "href": "page.php?slug=contact",
       "slug": "contact"

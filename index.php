@@ -52,7 +52,7 @@ $wallpaper3 = !empty($settings['wallpaper3']) ? $settings['wallpaper3'] : 'image
             
             <!-- Floating white glass search bar -->
             <div class="hero-search-container" style="max-width: 580px; margin-top: 30px; animation: none;">
-                <form class="hero-search-form" action="search.php" method="get" style="background: rgba(5, 38, 24, 0.05); border-color: rgba(5, 38, 24, 0.12); box-shadow: 0 15px 35px rgba(5, 38, 24, 0.06);">
+                <form class="hero-search-form" action="search.php" method="get" style="background: rgba(255, 255, 255, 0.95); border: 1px solid rgba(5, 38, 24, 0.22); box-shadow: 0 20px 40px rgba(5, 38, 24, 0.12); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
                     <input type="search" name="q" placeholder="Search programmes, colleges, calendars, portals..." required style="color: var(--ink);">
                     <button type="submit" style="background: linear-gradient(135deg, var(--green), var(--green-dark)); color: #fff;"><i class="fa fa-search"></i> Search </button>
                 </form>

@@ -35,7 +35,6 @@ $pageTitle = $pageTitle ?? ($settings['name'] ?? 'Home');
             <span><i class="fa fa-envelope-o"></i> <?= e($settings['email'] ?? 'info@uam.edu.ng') ?></span>
             <span><i class="fa fa-clock-o"></i> Mon - Fri: 8:00 - 16:00</span>
             <span class="top-social">
-                <a class="portal-link" href="page.php?slug=student-portal"><i class="fa fa-sign-in"></i> Portal Login</a>
                 <a href="#" aria-label="Facebook"><i class="fa fa-facebook"></i></a>
                 <a href="#" aria-label="Instagram"><i class="fa fa-instagram"></i></a>
                 <a href="#" aria-label="Telegram"><i class="fa fa-send"></i></a>
