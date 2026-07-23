@@ -46,6 +46,20 @@
         <span>Powered by the ICT Directorate.</span>
     </div>
     <a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="scroll-top-btn" title="Go to top"><i class="fa fa-arrow-up"></i></a>
+    <script>
+    (function() {
+        var btn = document.querySelector('.scroll-top-btn');
+        if (btn) {
+            window.addEventListener('scroll', function() {
+                if (window.pageYOffset > 300 || document.documentElement.scrollTop > 300) {
+                    btn.classList.add('show');
+                } else {
+                    btn.classList.remove('show');
+                }
+            });
+        }
+    })();
+    </script>
 </footer>
 <script src="js/portal-charts.js"></script>
 <script src="js/portal-ui.js"></script>

@@ -58,9 +58,7 @@ $wallpaper3 = !empty($settings['wallpaper3']) ? $settings['wallpaper3'] : 'image
                 </form>
             </div>
 
-            <div class="hero-actions" style="margin-top: 36px;">
-                <a class="btn primary" href="page.php?slug=admissions"><i class="fa fa-graduation-cap"></i> Check Admissions</a>
-            </div>
+
         </div>
 
         <!-- Hero Right Column: Mock Interactive Dashboard -->
