@@ -176,4 +176,16 @@
     // Start auto slider
     startInterval();
   }
+
+  // Scroll-to-top show/hide logic
+  const scrollTopBtn = document.querySelector(".scroll-top-btn");
+  if (scrollTopBtn) {
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 300) {
+        scrollTopBtn.classList.add("show");
+      } else {
+        scrollTopBtn.classList.remove("show");
+      }
+    });
+  }
 })();

@@ -1150,11 +1150,44 @@ figcaption { color: var(--muted); font-size: 13.5px; margin-top: 10px; font-styl
 .site-footer a:hover i { transform: translateX(3px); }
 .footer-about p { max-width: 360px; font-size: 14.5px; line-height: 1.6; }
 .footer-bottom { display: flex; justify-content: space-between; gap: 20px; padding-top: 15px; border-top: 1px solid rgba(255, 255, 255, 0.08); font-size: 13.5px; align-items: center; }
+.scroll-top-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 9999;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--green-deep);
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  box-shadow: 0 4px 12px rgba(5, 38, 24, 0.25);
+  transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  opacity: 0;
+  pointer-events: none;
+  text-decoration: none !important;
+}
+.scroll-top-btn.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+.scroll-top-btn i {
+  color: var(--gold) !important;
+  font-size: 16px !important;
+  transition: none !important;
+}
 .scroll-top-btn:hover {
   background: var(--gold) !important;
   color: var(--green-deep) !important;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(212, 163, 43, 0.25);
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0 8px 20px rgba(212, 163, 43, 0.4);
+}
+.scroll-top-btn:hover i {
+  color: var(--green-deep) !important;
 }
 
 /* Newsletter Mockup styling */

@@ -43,11 +43,9 @@
     </div>
     <div class="container footer-bottom">
         <span>&copy; <?= date('Y') ?> Joseph Sarwuan Tarka University, Makurdi.</span>
-        <span style="display: inline-flex; align-items: center; gap: 12px;">
-            Powered by the ICT Directorate.
-            <a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="scroll-top-btn" title="Go to top" style="display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; border-radius: 50%; background: rgba(255,255,255,0.06); color: var(--gold); border: 1px solid rgba(255,255,255,0.1); transition: all 0.2s ease; margin-left: 8px;"><i class="fa fa-arrow-up"></i></a>
-        </span>
+        <span>Powered by the ICT Directorate.</span>
     </div>
+    <a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="scroll-top-btn" title="Go to top"><i class="fa fa-arrow-up"></i></a>
 </footer>
 <script src="js/portal-charts.js"></script>
 <script src="js/portal-ui.js"></script>
