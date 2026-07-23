@@ -82,7 +82,9 @@
     const chart = JSON.parse(canvas.dataset.chart || "{}");
     const scale = window.devicePixelRatio || 1;
     const rect = canvas.getBoundingClientRect();
-    const w = Math.max(320, rect.width);
+    const labelCount = (chart.labels || []).length;
+    const minRequiredW = Math.max(320, labelCount * 65);
+    const w = Math.max(minRequiredW, rect.width || 0);
     const h = Number(canvas.getAttribute("height") || 300);
     canvas.width = w * scale;
     canvas.height = h * scale;

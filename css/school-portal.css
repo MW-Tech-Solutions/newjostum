@@ -2922,6 +2922,7 @@ figcaption { color: var(--muted); font-size: 13.5px; margin-top: 10px; font-styl
   max-width: 100%;
 }
 .chart-panel {
-  overflow: hidden;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
