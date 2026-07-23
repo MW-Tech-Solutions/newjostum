@@ -1,40 +1,38 @@
-name: Deploy to Bluehost
+
+name: Deploy PHP & Bootstrap App to Bluehost
 
 on:
   push:
     branches:
-      - main
+      - main  # Triggers when you push code to main branch
 
 jobs:
-  web-deploy:
-    name: Deploy Website
+  php-deploy:
+    name: 🚀 Deploy PHP Project
     runs-on: ubuntu-latest
     steps:
-      - name: Get latest code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
 
-      - name: Sync files to Bluehost
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          port: ${{ secrets.FTP_PORT }}
-          protocol: sftp
-          local-dir: ./
-          server-dir: ./
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/.github*
-            **/.github*/**
-            **/.agents/**
-            **/.codex/**
-            **/scratch/**
-            **/tools/**
-            **/*.log
-            **/*.zip
-            **/*.docx
-            **/data/sessions/**
+    - name: 📂 Sync PHP Files to Bluehost
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./  # Uploads the entire root directory
+        server-dir: ./
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/.github/**
+          **/uploads/**
+          **/uploads
+          **/.agents/**
+          **/.codex/**
+          **/scratch/**
+          **/tools/**
+          **/*.log
+          **/*.zip
+          **/*.docx
+          **/data/sessions/**
