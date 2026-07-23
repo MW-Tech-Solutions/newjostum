@@ -20,7 +20,8 @@ require __DIR__ . '/includes/header.php';
     </div>
 </section>
 <section class="section">
-    <div class="container page-layout">
+    <div class="container page-layout <?= $slug === 'directorates' ? 'no-sidebar' : '' ?>">
+        <?php if ($slug !== 'directorates'): ?>
         <aside class="side-nav">
             <strong>Explore</strong>
             <?php 
@@ -37,6 +38,7 @@ require __DIR__ . '/includes/header.php';
             endforeach; 
             ?>
         </aside>
+        <?php endif; ?>
         <article class="page-content">
             <?php
             $academicsTemplate = __DIR__ . "/includes/academics/{$slug}.php";
