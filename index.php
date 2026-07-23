@@ -59,8 +59,7 @@ $wallpaper3 = !empty($settings['wallpaper3']) ? $settings['wallpaper3'] : 'image
             </div>
 
             <div class="hero-actions" style="margin-top: 36px;">
-                <a class="btn primary" href="page.php?slug=student-portal"><i class="fa fa-sign-in"></i> Student Portal</a>
-                <a class="btn secondary" href="page.php?slug=admissions" style="border-color: var(--green); background: rgba(16, 138, 85, 0.05); color: var(--green-dark);"><i class="fa fa-graduation-cap"></i> Check Admissions</a>
+                <a class="btn primary" href="page.php?slug=admissions"><i class="fa fa-graduation-cap"></i> Check Admissions</a>
             </div>
         </div>
 
