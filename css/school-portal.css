@@ -466,13 +466,13 @@ body.preloader-done .preloader {
 .hero-actions.on-light .btn.secondary { color: var(--green-dark); border-color: var(--line); background: var(--soft); }
 
 /* Sections */
-.section { padding: 50px 0; position: relative; }
+.section { padding: 40px 0; position: relative; }
 .section h1, .section h2 { max-width: 860px; margin: 0 0 20px; font-weight: 800; line-height: 1.15; color: var(--green-deep); }
 .section h1 { font-size: clamp(34px, 5.5vw, 60px); letter-spacing: -0.5px; }
 .section h2 { font-size: clamp(28px, 4.2vw, 42px); letter-spacing: -0.5px; }
 .section p { color: var(--muted); font-size: 16px; line-height: 1.7; }
 .section.soft { background: linear-gradient(180deg, var(--soft), #ffffff); }
-.band { padding: 60px 0; background: linear-gradient(135deg, var(--green-deep), var(--green-dark)); box-shadow: inset 0 1px rgba(255,255,255,0.06); color: #fff; }
+.band { padding: 40px 0; background: linear-gradient(135deg, var(--green-deep), var(--green-dark)); box-shadow: inset 0 1px rgba(255,255,255,0.06); color: #fff; }
 
 /* Floating Quick Routes / Popular Links */
 .quick-routes { position: relative; z-index: 10; margin-top: -54px; }
@@ -524,7 +524,7 @@ body.preloader-done .preloader {
   align-items: flex-end;
   justify-content: space-between;
   gap: 30px;
-  margin-bottom: 42px;
+  margin-bottom: 20px;
 }
 .section-heading h2 { margin-bottom: 0; }
 .section-heading.light h2 { color: #fff; }
@@ -1137,18 +1137,18 @@ figcaption { color: var(--muted); font-size: 13.5px; margin-top: 10px; font-styl
 }
 
 /* Site Footer */
-.site-footer { padding: 0 0 40px; background: #031811; color: rgba(255, 255, 255, 0.7); border-top: 4px solid var(--gold); }
-.footer-hero { display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 30px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.08); }
+.site-footer { padding: 0 0 20px; background: #031811; color: rgba(255, 255, 255, 0.7); border-top: 4px solid var(--gold); }
+.footer-hero { display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 15px 0; border-bottom: 1px solid rgba(255, 255, 255, 0.08); }
 .footer-hero h2 { max-width: 760px; margin: 0; color: #fff; font-family: var(--font-serif); font-size: clamp(26px, 4vw, 42px); line-height: 1.2; font-weight: 700; }
-.footer-grid { display: grid; grid-template-columns: 1.3fr 0.9fr 0.9fr 0.9fr; gap: 40px; padding: 30px 0 20px; }
-.site-footer img { width: 76px; height: 76px; object-fit: contain; background: #fff; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); }
-.site-footer h2 { margin: 0 0 20px; color: #fff; font-size: 17px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; }
+.footer-grid { display: grid; grid-template-columns: 1.3fr 0.9fr 0.9fr 0.9fr; gap: 24px; padding: 20px 0 10px; }
+.site-footer img { width: 76px; height: 76px; object-fit: contain; background: #fff; border-radius: 12px; margin-bottom: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); }
+.site-footer h2 { margin: 0 0 12px; color: #fff; font-size: 17px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; }
 .site-footer a { display: flex; align-items: center; gap: 8px; padding: 6px 0; color: rgba(255, 255, 255, 0.7); }
 .site-footer a i { color: var(--gold); font-size: 11px; transition: transform 0.2s ease; }
 .site-footer a:hover { color: #fff; }
 .site-footer a:hover i { transform: translateX(3px); }
 .footer-about p { max-width: 360px; font-size: 14.5px; line-height: 1.6; }
-.footer-bottom { display: flex; justify-content: space-between; gap: 20px; padding-top: 30px; border-top: 1px solid rgba(255, 255, 255, 0.08); font-size: 13.5px; }
+.footer-bottom { display: flex; justify-content: space-between; gap: 20px; padding-top: 15px; border-top: 1px solid rgba(255, 255, 255, 0.08); font-size: 13.5px; }
 
 /* Newsletter Mockup styling */
 .newsletter-form {
@@ -2746,7 +2746,7 @@ figcaption { color: var(--muted); font-size: 13.5px; margin-top: 10px; font-styl
 
 /* VC Editorial Profile Block */
 .stripe-vc-section {
-  padding: 50px 0;
+  padding: 40px 0;
   background: #ffffff;
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
@@ -2795,7 +2795,7 @@ figcaption { color: var(--muted); font-size: 13.5px; margin-top: 10px; font-styl
 
 /* Product Hub Grid */
 .stripe-gateways-section {
-  padding: 50px 0;
+  padding: 40px 0;
   background: var(--soft);
   position: relative;
 }
