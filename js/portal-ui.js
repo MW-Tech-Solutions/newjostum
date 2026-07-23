@@ -176,5 +176,4 @@
     // Start auto slider
     startInterval();
   }
-  }
 })();
