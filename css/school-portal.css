@@ -2917,3 +2917,11 @@ figcaption { color: var(--muted); font-size: 13.5px; margin-top: 10px; font-styl
   }
 }
 
+.portal-chart {
+  display: block;
+  max-width: 100%;
+}
+.chart-panel {
+  overflow: hidden;
+}
+
