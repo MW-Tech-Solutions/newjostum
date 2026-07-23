@@ -29,6 +29,11 @@
       "slug": "colleges"
     },
     {
+      "label": "Grants",
+      "href": "page.php?slug=research-innovation",
+      "slug": "research-innovation"
+    },
+    {
       "label": "Statistics",
       "href": "page.php?slug=at-a-glance",
       "slug": "at-a-glance"
