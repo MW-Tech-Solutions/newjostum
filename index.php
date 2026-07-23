@@ -46,7 +46,7 @@ $wallpaper3 = !empty($settings['wallpaper3']) ? $settings['wallpaper3'] : 'image
         <div class="stripe-fade-up">
             <p class="kicker" style="color: var(--green); border-color: var(--green); font-weight: 800;"><?= e($home['eyebrow'] ?? 'Innovation and Service') ?></p>
             <h1 class="stripe-title stripe-title-green">Joseph Sarwuan Tarka University</h1>
-            <p style="color: var(--muted); font-size: 19px; max-width: 620px; line-height: 1.6; font-weight: 500; margin: 20px 0 30px;">
+            <p style="background: rgba(255, 255, 255, 0.82); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(5, 38, 24, 0.15); border-radius: 12px; padding: 16px 20px; color: #031811; font-size: 18px; max-width: 620px; line-height: 1.6; font-weight: 600; margin: 20px 0 30px; box-shadow: 0 10px 30px rgba(5, 38, 24, 0.05);">
                 A dynamic university portal for academics, administration, research, admissions, students, charts, and institutional records.
             </p>
             
